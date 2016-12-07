@@ -1,7 +1,7 @@
 # empezando con git
 class Imagen():
     def tamarindo(self):
-        pass
+        print("1,2 y 3...tamarindo")
     def escala_grises(self):
         pass
     def binarizacion(self):
