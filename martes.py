@@ -14,3 +14,10 @@ class Sonido():
         pass
     def fourier(self):
         pass
+
+class Video():
+    def iniciar(self):
+        print("Iniciando...")
+    def brillo(self):
+        pass
+    def contraste(self):
