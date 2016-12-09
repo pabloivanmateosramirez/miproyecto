@@ -21,3 +21,4 @@ class Video():
     def brillo(self):
         pass
     def contraste(self):
+        pass
